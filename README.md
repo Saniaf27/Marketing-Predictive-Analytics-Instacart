@@ -27,7 +27,7 @@ Instacart Market Basket Analysis Dataset
 - ROC-AUC
 
 ## Best Model
-(Random Forest/XGBoost - update after your results)
+Histogram Gradient Boosting
 
 The complete Instacart dataset is publicly available on Kaggle. Due to GitHub's file size limit, only the smaller reference files are included in this repository.
 
